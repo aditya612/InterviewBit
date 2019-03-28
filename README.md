@@ -6,7 +6,7 @@ Collection of Aditya Agarwal's gists solutions for problems on https://www.inter
 - Sometimes, multiple solutions/approaches have been provided with relevant comments in the solution file, 
 these are being continuously updated as and when I find a more optimized solution. Be wary of copying two solutions separated
 by comments simultaneously to run/submit on InterviewBit's online judge. Both shall work individually.
-- I've used Python in each and every solution.
+- I've used Python and Java in each and every solution.
 - *The code in this repo is completely original content and written by me.* If you like what you see, don't forget to show your liking by :star:ing this repo.
 - The solutions for the following types of questions are available :-
   * [Programming](https://www.interviewbit.com/courses/programming/)
