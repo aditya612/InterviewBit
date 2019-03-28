@@ -18,8 +18,9 @@ class Solution:
     # @param b : integer
     # @return a list of integers
     def rotateArray(self, a, b):
-        ret = []
-        for i in xrange(len(a)):
-            ret.append(a[(i + b) % len(a)])
+#         ret = []
+#         for i in xrange(len(a)):
+#             ret.append(a[(i + b) % len(a)])
+        ret = [a[(i + b) % len(a)] for i in xrange(len(a))]
         return ret
         
